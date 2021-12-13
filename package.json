@@ -1,5 +1,5 @@
 {
-  "name": "leaderboard",
+  "name": "to-do-list",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vic778/Leaderboard.git"
+    "url": "git+https://github.com/vic778/To-Do-List.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vic778/Leaderboard/issues"
+    "url": "https://github.com/vic778/To-Do-List/issues"
   },
-  "homepage": "https://github.com/vic778/Leaderboard#readme",
+  "homepage": "https://github.com/vic778/To-Do-List#readme",
   "dependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.16.0",
     "bootstrap": "^5.1.0",
