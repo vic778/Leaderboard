@@ -1,8 +1,8 @@
-# To-Do-List
+# Leaderboard
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
->In this project, we had written unit tests for the To Do list application. The test project has been divided into two parts. In part 1, we tested the functions responsible for adding and removing items from the list. In the part.
+> In this activity,I set up a JavaScript project for the Leaderboard list application, using webpack and ESfeatures, including modules. I developed the first functional version of the application following a thread,
 
 
 ![](https://github.com/vic778/to-do-list-reviewer/blob/Test/img/test.screen.png)
@@ -23,12 +23,6 @@
 - GitHub: [@Vvic778](https://github.com/vic778)
 - Twitter: [@victoirBarh](https://twitter.com/)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/victoir-barh)
-
-## Author 2
-
-- GitHub: [@githubhandle](https://github.com/Mithi-code)
-- Twitter: [@twitterhandle](https://twitter.com/LazyMithlesh)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mithlesh-kumar-564a97221/)
 
 ## Getting Started
 
