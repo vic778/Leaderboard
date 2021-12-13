@@ -1,5 +1,5 @@
 import './style.css';
-import data from './data';
+import data from './data.js';
 
 const scoreTable = document.querySelector('#score-details');
 
