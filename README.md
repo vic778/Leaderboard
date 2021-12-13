@@ -5,7 +5,7 @@
 > In this activity,I set up a JavaScript project for the Leaderboard list application, using webpack and ESfeatures, including modules. I developed the first functional version of the application following a thread,
 
 
-![](https://github.com/vic778/to-do-list-reviewer/blob/Test/img/test.screen.png)
+![](https://github.com/vic778/Leaderboard/blob/develop/img/screen1.png)
 ## Built With
 
 - HTML5
