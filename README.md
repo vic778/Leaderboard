@@ -25,6 +25,9 @@
 - LinkedIn: [LinkedIn](https://linkedin.com/in/victoir-barh)
 
 ## Getting Started
+- git clone to clone the project 
+- npm install to install all dependecies
+- npm start to run the server
 
 ### Prerequisites:
 
