@@ -26,7 +26,8 @@
 
 ## Getting Started
 - git clone to clone the project 
-- npm install to install all dependecies
+- npm install to install all dependencies
+- npm run build to compress your project in to the dist folder 
 - npm start to run the server
 
 ### Prerequisites:
